@@ -1,0 +1,15 @@
+V3 7
+FL //cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd 2016/12/07.09:49:51 P.20131013
+EN work/box 0 FL //cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/box/Behavioral 0 \
+      FL //cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd EN work/box 0
+FL //cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/VGA.vhd 2016/12/07.09:38:27 P.20131013
+FL "//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/VGA.vhd" 2016/12/07.09:38:27 P.20131013
+EN work/vgatest 1481594307 \
+      FL "//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/VGA.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/vgatest/behavioral 1481594308 \
+      FL "//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/VGA.vhd" \
+      EN work/vgatest 1481594307

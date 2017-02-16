@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/CS373-1/StepOne/step1test_isim_beh.exe" -prj "Z:/CS373-1/StepOne/step1test_beh.prj" "work.step1test" 

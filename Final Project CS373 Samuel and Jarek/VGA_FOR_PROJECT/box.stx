@@ -1,0 +1,50 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to Z:/CS373-1/VGA_FOR_PROJECT/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to Z:/CS373-1/VGA_FOR_PROJECT/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" in Library work.
+Entity <box> compiled.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 45. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 45. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 45. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 45. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 49. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 49. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 49. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 49. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 53. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 53. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 53. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 53. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 57. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 57. < can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 57. > can not have such operands in this context.
+ERROR:HDLParsers:808 - "//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/box.vhd" Line 57. < can not have such operands in this context.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.33 secs
+ 
+--> 
+
+Total memory usage is 265732 kilobytes
+
+Number of errors   :   16 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

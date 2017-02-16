@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=\\cs1\CS_Projects\2016_Fall_CS373\Sam and Jarek\VGA_FOR_PROJECT\vgatest.ncd
+OUTFILE=\\cs1\CS_Projects\2016_Fall_CS373\Sam and Jarek\VGA_FOR_PROJECT\vgatest.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=\\cs1\CS_Projects\2016_Fall_CS373\Sam and Jarek\VGA_FOR_PROJECT
+LICENSE=WebPack
+USER_INFO=177065750_177065752_0_914

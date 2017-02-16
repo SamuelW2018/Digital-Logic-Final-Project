@@ -1,0 +1,38 @@
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 vgatest.ngc vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 vgatest.ngc vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 vgatest.ngc vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 vgatest.ngc vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 
+xst -intstyle ise -ifn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.xst" -ofn "Z:/CS373-1/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 vgatest.ngc vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 
+xst -intstyle ise -ifn "//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/vgatest.xst" -ofn "//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/vgatest.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc test1.ucf -p xc3s1000-ft256-4 "vgatest.ngc" vgatest.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o vgatest_map.ncd vgatest.ngd vgatest.pcf 
+par -w -intstyle ise -ol high -t 1 vgatest_map.ncd vgatest.ncd vgatest.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vgatest.twx vgatest.ncd -o vgatest.twr vgatest.pcf -ucf test1.ucf 
+bitgen -intstyle ise -f vgatest.ut vgatest.ncd 

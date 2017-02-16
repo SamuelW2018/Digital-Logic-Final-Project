@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/vgatest</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/VGA.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/VGA.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/vgatest/behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">//cs1/2017/jthomas17/CS373-1/VGA_FOR_PROJECT/VGA.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">//cs1/CS_Projects/2016_Fall_CS373/Sam and Jarek/VGA_FOR_PROJECT/VGA.vhd</arg>&quot;.
+</msg>
+
+</messages>
+

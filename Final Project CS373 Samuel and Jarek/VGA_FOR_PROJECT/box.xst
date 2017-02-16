@@ -1,0 +1,5 @@
+set -tmpdir "Z:/CS373-1/VGA_FOR_PROJECT/xst/projnav.tmp"
+set -xsthdpdir "Z:/CS373-1/VGA_FOR_PROJECT/xst"
+elaborate
+-ifn box.prj
+-ifmt mixed
